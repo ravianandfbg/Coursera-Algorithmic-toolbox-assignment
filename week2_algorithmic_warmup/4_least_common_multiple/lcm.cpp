@@ -1,3 +1,5 @@
+//Created by Ravi Anand
+
 #include <iostream>
 
 long long lcm_naive(int a, int b)
